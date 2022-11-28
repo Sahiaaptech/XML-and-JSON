@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Students xmlns:metro="http://www.aptech.com/metro" xmlns:sfc="http://www.aptech.com/sfc" xmlns:nm="http://www.aptech.com/nm">
+  <metro:student id="1">
+     <Name>Hashir</Name>
+     <Email>hashir@gmail.com</Email>
+     <Phone>03122451212</Phone>
+     <Batch>PR2-202206C</Batch>
+  </metro:student>
+  <metro:student id="2">
+    <Name>Adam</Name>
+    <Email>adam@gmail.com</Email>
+    <Phone>03122451212</Phone>
+    <Batch>PR2-202206C</Batch>
+ </metro:student>
+ <sfc:student id="3">
+    <Name>Asher</Name>
+    <Email>asher@gmail.com</Email>
+    <Phone>03122451212</Phone>
+    <Batch>PR2-202206C</Batch>
+ </sfc:student>
+ <student id="4">
+    <Name>Haris</Name>
+    <Email>haris@gmail.com</Email>
+    <Phone>03122451212</Phone>
+    <Batch>PR2-202206C</Batch>
+ </student>
+ <sfc:student id="5">
+    <Name>Abdul Rehman</Name>
+    <Email>hashir@gmail.com</Email>
+    <Phone>03122451212</Phone>
+    <Batch>PR2-202206C</Batch>
+ </sfc:student >
+ <metro:student id="6">
+    <Name>Ahsan</Name>
+    <Email>ahsan@gmail.com</Email>
+    <Phone>03122451212</Phone>
+    <Batch>PR2-202206C</Batch>
+ </metro:student>
+ <nm:student id="7">
+    <Name>Sarwer</Name>
+    <Email>hashir@gmail.com</Email>
+    <Phone>03122451212</Phone>
+    <Batch>PR2-202206C</Batch>
+ </nm:student>
+ <nm:student id="8">
+    <Name>Nimra</Name>
+    <Email>nimra@gmail.com</Email>
+    <Phone>03122451212</Phone>
+    <Batch>PR2-202206C</Batch>
+ </nm:student>
+ <nm:student id="9">
+    <Name>Aleena</Name>
+    <Email>aleena@gmail.com</Email>
+    <Phone>03122451212</Phone>
+    <Batch>PR2-202206C</Batch>
+ </nm:student>
+ <nm:student id="10">
+    <Name>Usman</Name>
+    <Email>usman@gmail.com</Email>
+    <Phone>03122451212</Phone>
+    <Batch>PR2-202206C</Batch>
+ </nm:student>
+</Students> 
